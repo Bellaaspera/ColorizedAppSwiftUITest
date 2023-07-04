@@ -11,6 +11,7 @@
 		709668A62A5366E700CD42AE /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 709668A52A5366E700CD42AE /* ContentView.swift */; };
 		709668A82A5366E900CD42AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 709668A72A5366E900CD42AE /* Assets.xcassets */; };
 		709668AB2A5366E900CD42AE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 709668AA2A5366E900CD42AE /* Preview Assets.xcassets */; };
+		709668B22A5367AE00CD42AE /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 709668B12A5367AE00CD42AE /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		709668A52A5366E700CD42AE /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		709668A72A5366E900CD42AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		709668AA2A5366E900CD42AE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		709668B12A5367AE00CD42AE /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				709668A32A5366E700CD42AE /* ColorizedAppSwiftUITestApp.swift */,
 				709668A52A5366E700CD42AE /* ContentView.swift */,
+				709668B12A5367AE00CD42AE /* SliderView.swift */,
 				709668A72A5366E900CD42AE /* Assets.xcassets */,
 				709668A92A5366E900CD42AE /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				709668B22A5367AE00CD42AE /* SliderView.swift in Sources */,
 				709668A62A5366E700CD42AE /* ContentView.swift in Sources */,
 				709668A42A5366E700CD42AE /* ColorizedAppSwiftUITestApp.swift in Sources */,
 			);
